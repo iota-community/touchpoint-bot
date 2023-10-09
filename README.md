@@ -34,3 +34,6 @@ Compile
 Start with pm2  
 `pm2 start dist/bot.js`
 
+## Troubleshooting
+
+Discord Categories have a limit of 50 channels. Once that limit is reached, create a new private Category and exchange the Category id in the `src/config.ts` file
