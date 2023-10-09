@@ -1,0 +1,6 @@
+// perms = 268437552
+// https://discord.com/api/oauth2/authorize?client_id=APPLICATIONID&permissions=268437552&scope=bot
+
+export const BOT_TOKEN = "DISCORD BOT TOKEN";
+export const TOUCHPOINT_CATEGORY = "CATEGORY ID";
+export const BASE_ROLES = [];
